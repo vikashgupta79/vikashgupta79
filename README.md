@@ -11,8 +11,8 @@
 
 ## Let's Connect :handshake:
 <p align="center">
-<a href="[https://linkedin.com/in/ankit-sharma-228862204](https://linkedin.com/in/https://www.linkedin.com/in/ankit-sharma-228862204/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankit" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ankit-sharma-228862204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankit" height="30" width="40" /></a>
+<a href="[(https://www.linkedin.com/feed/)](https://linkedin.com/in/https://(https://www.linkedin.com/feed/)/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankit" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/feed/)/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vikash" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/its__ankit_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ankit" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.leetcode.com/ankit102001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ankit" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
