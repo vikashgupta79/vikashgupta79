@@ -13,5 +13,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/vikashgupta79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vikash" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/its__ankit_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ankit" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/its_vikash_79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ankit" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.leetcode.com/ankit102001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ankit" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
